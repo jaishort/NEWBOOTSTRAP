@@ -74,7 +74,7 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #89c7c7;
-  --bs-link-hover-color: #a7e99a;
+  --bs-link-hover-color: purple;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -343,7 +343,7 @@ label {
 }
 
 button {
-  border-radius: 0;
+  border-radius: 3;
 }
 
 button:focus:not(:focus-visible) {
