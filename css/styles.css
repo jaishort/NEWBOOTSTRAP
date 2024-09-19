@@ -61,8 +61,8 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #3783cf;
-  --bs-body-bg: #77c7c0;
+  --bs-body-color: #8eaece;
+  --bs-body-bg: #0c635b;
   --bs-border-width: 1px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
@@ -73,8 +73,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #9c4320;
-  --bs-link-hover-color: #974a2d;
+  --bs-link-color: #89c7c7;
+  --bs-link-hover-color: #a7e99a;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
